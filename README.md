@@ -9,7 +9,7 @@ Name  | Symbol | Technical | Website
 ![](images/bitcoin.png?raw=true) Bitcoin | BTC | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | https://www.bitcoin.com 
 ![](images/ethereum.png?raw=true) Ethereum | ETH | [Whitepaper](/https://github.com/ethereum/wiki/wiki/White-Paper) | https://www.ethereum.org 
 ![](images/ripple.png?raw=true) Ripple | XRP | [Whitepaper](https://ripple.com/files/ripple_consensus_whitepaper.pdf) | https://ripple.com
-![](images/litecoin.png?raw=true) Litecoin | LTC | - | https://litecoin.com
+![](images/litecoin.png?raw=true) Litecoin | LTC | [Video presentation](https://www.youtube.com/watch?v=U2KP8koYC3s) | https://litecoin.com
 ![](images/ethereum-classic.png?raw=true) Ethereum Classic | ETC | - | https://ethereumclassic.github.io  
 ![](images/dash.png?raw=true) Dash | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | https://www.dash.org
 ![](images/nem.png?raw=true) NEM | XEM | [Whitepaper](https://www.nem.io/NEM_techRef.pdf) | https://www.nem.io
@@ -72,3 +72,5 @@ Name  | Symbol | Technical | Website
 ![](images/gridcoin.png?raw=true) GridCoin | GRC | [Whitepaper](https://www.gridcoin.us/images/gridcoin-white-paper.pdf) | https://www.gridcoin.us
 ![](images/nushares.png?raw=true) NuShares | NSR | [Whitepaper](https://www.nubits.com/assets/nu-whitepaper-23_sept_2014-en.pdf) | https://www.nubits.com
 ![](images/synereo.png?raw=true) Synereo | AMP | [Whitepaper](https://github.com/synereo/synereo.github.io/blob/master/whitepapers/synereo.pdf) | https://www.synereo.com
+
+[comment]: <> ("Never invest in a business you can’t understand!" W.B.)
