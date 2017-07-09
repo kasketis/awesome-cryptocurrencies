@@ -71,7 +71,7 @@ Name  | Symbol | Technical | Website | Hash algorithm
 ![](images/primecoin.png?raw=true) PrimeCoin | XPM | [Whitepaper](http://primecoin.io/bin/primecoin-paper.pdf) | http://primecoin.io | Multiple
 ![](images/blackcoin.png?raw=true) BlackCoin | BLK | [Whitepaper](http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf) | http://blackcoin.co | Scrypt
 ![](images/gridcoin.png?raw=true) GridCoin | GRC | [Whitepaper](https://www.gridcoin.us/images/gridcoin-white-paper.pdf) | https://www.gridcoin.us | Scrypt
-![](images/nushares.png?raw=true) NuShares | NSR | [Whitepaper](https://www.nubits.com/assets/nu-whitepaper-23_sept_2014-en.pdf) | https://www.nubits.com | ?
+![](images/nushares.png?raw=true) NuShares | NSR | [Whitepaper](https://www.nubits.com/assets/nu-whitepaper-23_sept_2014-en.pdf) | https://www.nubits.com | -
 ![](images/synereo.png?raw=true) Synereo | AMP | [Whitepaper](https://github.com/synereo/synereo.github.io/blob/master/whitepapers/synereo.pdf) | https://www.synereo.com | -
  
-[comment]: <> ("Never invest in a business you can’t understand." Warren Buffett) | 
+[comment]: <> ("Never invest in a business you can’t understand." Warren Buffett) 
