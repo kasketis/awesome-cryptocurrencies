@@ -14,7 +14,7 @@ Name  | Symbol | Technical | Website | Hash algorithm
 ![](images/ethereum-classic.png?raw=true) Ethereum Classic | ETC | - | https://ethereumclassic.github.io | Ethash 
 ![](images/dash.png?raw=true) Dash | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | https://www.dash.org | X11
 ![](images/nem.png?raw=true) NEM | XEM | [Whitepaper](https://www.nem.io/NEM_techRef.pdf) | https://www.nem.io | SHA3-512
-![](images/iota.png?raw=true) IOTA | MIOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | https://iota.org | -
+![](images/iota.png?raw=true) IOTA | MIOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | https://iota.org | Curl
 ![](images/monero.png?raw=true) Monero | XMR | - | https://getmonero.org | CryptoNight
 ![](images/stratis.png?raw=true) Stratis | STRAT | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | https://stratisplatform.com | X13 
 ![](images/bitshares.png?raw=true) BitShares | BTS | [Whitepaper](http://docs.bitshares.eu/_downloads/bitshares-financial-platform.pdf) | https://bitshares.org | SHA-512
