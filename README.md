@@ -28,8 +28,8 @@ Feel free to contribute :)
 | **D** |
 | ![](images/dash.png?raw=true) Dash | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | https://www.dash.org | X11 |
 | ![](images/dashcoin.png?raw=true) DashCoin | DSH | [Whitepaper](https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf) | https://www.coindash.io | CryptoNight  |
-| ![](images/digixdao.png?raw=true) DigixDAO | DGD | [Whitepaper](https://dgx.io/whitepaper.pdf) | https://dgx.io | - |
 | ![](images/decred.png?raw=true) Decred | DCR | - | https://www.decred.org | Blake 256 |
+| ![](images/digixdao.png?raw=true) DigixDAO | DGD | [Whitepaper](https://dgx.io/whitepaper.pdf) | https://dgx.io | - |
 | ![](images/dogecoin.png?raw=true) Dogecoin | DOGE | - | https://dogecoin.com | Scrypt |
 | ![](images/dubaicoin.png?raw=true) DubaiCoin | DBIX | - | https://www.arabianchain.org | - |
 | **E** |
