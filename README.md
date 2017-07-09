@@ -8,6 +8,7 @@ Feel free to contribute :)
 | Name  | Symbol | Technical | Website | Hash algorithm |
 | ----- | ------ | --------- | ------- | -------------- |
 | **A** |
+| ![](images/antshares.png?raw=true) AntShares | ANS | [Whitepaper](https://github.com/AntShares/AntShares/wiki/Whitepaper-1.1) | https://www.antshares.org | SHA-256 |
 | ![](images/aragon.png?raw=true) Aragon | ANT | [Whitepaper](https://github.com/aragon/whitepaper/blob/master/Aragon%20Whitepaper.pdf) | https://aragon.one | - |
 | ![](images/ardor.png?raw=true) Ardor | ARDR | - | https://www.ardorplatform.org | - |
 | ![](images/ark.png?raw=true) Ark | ARK | [Whitepaper](https://ark.io/Whitepaper-ARK.pdf) | https://ark.io | DPoS  |
