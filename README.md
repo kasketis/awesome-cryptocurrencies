@@ -29,6 +29,7 @@ Feel free to contribute :)
 | ![](images/dashcoin.png?raw=true) DashCoin | DSH | [Whitepaper](https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf) | https://www.coindash.io | CryptoNight  |
 | ![](images/digixdao.png?raw=true) DigixDAO | DGD | [Whitepaper](https://dgx.io/whitepaper.pdf) | https://dgx.io | - |
 | ![](images/dogecoin.png?raw=true) Dogecoin | DOGE | - | https://dogecoin.com | Scrypt |
+| ![](images/dubaicoin.png?raw=true) DubaiCoin | DBIX | - | https://www.arabianchain.org | - |
 | **E** |
 | ![](images/edgeless.png?raw=true) Edgeless | EDG | [Whitepaper](https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf) | https://edgeless.io | - |
 | ![](images/emercoin.png?raw=true) Emercoin | EMC | [Whitepaper](https://emercoin.com/content/EMCDPO.pdf) | https://emercoin.com | SHA-256 |
