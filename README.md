@@ -63,7 +63,7 @@ Feel free to contribute :)
 | ![](images/mcap.png?raw=true) MCAP | MCAP | [Whitepaper](https://bitcoingrowthfund.com/static/pdf/mcap-whitepaper.pdf) | https://bitcoingrowthfund.com/mcap | - |
 | ![](images/melon.png?raw=true) Melon | MLN | [Whitepaper](https://github.com/melonproject/greenpaper) | https://melonport.com | - |
 | ![](images/mobilego.png?raw=true) MobileGo | MGO | [Whitepaper](https://mobilego.io/pdf/MobileGo-Whitepaper.pdf) | https://mobilego.io | - |
-| ![](images/monero.png?raw=true) Monero | XMR | - | https://getmonero.org | CryptoNight |
+| ![](images/monero.png?raw=true) Monero | XMR | [Whitepaper](https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf) | https://getmonero.org | CryptoNight |
 | **N** |
 | ![](images/nem.png?raw=true) NEM | XEM | [Whitepaper](https://www.nem.io/NEM_techRef.pdf) | https://www.nem.io | SHA3-512 |
 | ![](images/nexus.png?raw=true) Nexus | NXS | [Whitepaper](http://nexusearth.com/downloads/nexus-peer-peer.pdf) | http://nexusearth.com | SHA3 |
