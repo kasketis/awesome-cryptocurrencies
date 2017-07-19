@@ -8,6 +8,7 @@ Feel free to contribute :)
 | Name  | Symbol | Technical | Website | Hash algorithm |
 | ----- | ------ | --------- | ------- | -------------- |
 | **A** |
+| ![](images/aeternity.png?raw=true) Æternity | AE | [Whitepaper](https://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf) | https://www.aeternity.com | Cuckoo Cycle |
 | ![](images/antshares.png?raw=true) AntShares | ANS | [Whitepaper](https://github.com/AntShares/AntShares/wiki/Whitepaper-1.1) | https://www.antshares.org | SHA-256 |
 | ![](images/aragon.png?raw=true) Aragon | ANT | [Whitepaper](https://github.com/aragon/whitepaper/blob/master/Aragon%20Whitepaper.pdf) | https://aragon.one | - |
 | ![](images/ardor.png?raw=true) Ardor | ARDR | - | https://www.ardorplatform.org | - |
