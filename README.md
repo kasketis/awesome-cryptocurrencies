@@ -37,7 +37,7 @@ Feel free to contribute :)
 | ![](images/edgeless.png?raw=true) Edgeless | EDG | [Whitepaper](https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf) | https://edgeless.io | - |
 | ![](images/emercoin.png?raw=true) Emercoin | EMC | [Whitepaper](https://emercoin.com/content/EMCDPO.pdf) | https://emercoin.com | SHA-256 |
 | ![](images/eos.png?raw=true) EOS | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | https://eos.io | DPoS |
-| ![](images/ethereum.png?raw=true) Ethereum | ETH | [Whitepaper](/https://github.com/ethereum/wiki/wiki/White-Paper) | https://www.ethereum.org | Ethash  |
+| ![](images/ethereum.png?raw=true) Ethereum | ETH | [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) | https://www.ethereum.org | Ethash  |
 | ![](images/ethereum-classic.png?raw=true) Ethereum Classic | ETC | - | https://ethereumclassic.github.io | Ethash  |
 | ![](images/etheroll.png?raw=true) Etheroll | DICE | [Whitepaper](http://crowdfund.etheroll.com/etheroll-whitepaper.pdf) | http://www.etheroll.com | -  |
 | **F** |
