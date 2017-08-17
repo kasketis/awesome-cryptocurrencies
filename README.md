@@ -9,7 +9,6 @@ Feel free to contribute :)
 | ----- | ------ | --------- | ------- | -------------- |
 | **A** |
 | ![](images/aeternity.png?raw=true) Æternity | AE | [Whitepaper](https://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf) | https://www.aeternity.com | Cuckoo Cycle |
-| ![](images/antshares.png?raw=true) AntShares | ANS | [Whitepaper](https://github.com/AntShares/AntShares/wiki/Whitepaper-1.1) | https://www.antshares.org | SHA-256 |
 | ![](images/aragon.png?raw=true) Aragon | ANT | [Whitepaper](https://github.com/aragon/whitepaper/blob/master/Aragon%20Whitepaper.pdf) | https://aragon.one | - |
 | ![](images/ardor.png?raw=true) Ardor | ARDR | - | https://www.ardorplatform.org | - |
 | ![](images/ark.png?raw=true) Ark | ARK | [Whitepaper](https://ark.io/Whitepaper-ARK.pdf) | https://ark.io | DPoS  |
@@ -67,6 +66,7 @@ Feel free to contribute :)
 | ![](images/monero.png?raw=true) Monero | XMR | [Whitepaper](https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf) | https://getmonero.org | CryptoNight |
 | **N** |
 | ![](images/nem.png?raw=true) NEM | XEM | [Whitepaper](https://www.nem.io/NEM_techRef.pdf) | https://www.nem.io | SHA3-512 |
+| ![](images/neo.png?raw=true) NEO | NEO | [Whitepaper](https://github.com/neo-project/neo/wiki/Whitepaper-1.1) | https://neo.org | SHA-256 |
 | ![](images/nexus.png?raw=true) Nexus | NXS | [Whitepaper](http://nexusearth.com/downloads/nexus-peer-peer.pdf) | http://nexusearth.com | SHA3 |
 | ![](images/nushares.png?raw=true) NuShares | NSR | [Whitepaper](https://www.nubits.com/assets/nu-whitepaper-23_sept_2014-en.pdf) | https://www.nubits.com | - |
 | ![](images/nxt.png?raw=true) Nxt | NXT | [Whitepaper](https://nxtwiki.org/wiki/Whitepaper:Nxt) | https://nxt.org | SHA-256d |
