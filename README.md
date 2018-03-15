@@ -93,6 +93,7 @@ Feel free to contribute :)
 | ![](images/tether.png?raw=true) Tether | USDT | [Whitepaper](https://tether.to/wp-content/uploads/2015/04/Tether-White-Paper.pdf) | https://tether.to | - |
 | **U** |
 | **V** |
+| ![](images/velix.png?raw=true) Velix.ID | VXD | [Whitepaper](https://www.velix.id/assets/Velix.ID%20White%20Paper.pdf) | https://velix.id | - |
 | ![](images/verge.png?raw=true) Verge | XVG | [Whitepaper](https://github.com/vergecurrency/Verge-Blackpaper/blob/master/Verge-Anonymity-Centric-CryptoCurrency.pdf) | https://vergecurrency.com | Multiple |
 | ![](images/vericoin.png?raw=true) VeriCoin | VRC | [Whitepaper](https://www.vericoin.info/downloads/VeriCoinPoSTWhitePaper10May2015.pdf) | https://www.vericoin.info | Scrypt |
 | ![](images/veritaseum.png?raw=true) Veritaseum | VERI | - | http://veritas.veritaseum.com | - |
