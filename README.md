@@ -18,7 +18,6 @@ Feel free to contribute :)
 | ![](images/bancor.png?raw=true) Bancor | BNT | [Whitepaper](https://www.bancor.network/static/Bancor_Protocol_Whitepaper_en.pdf) | https://www.bancor.network | -  |
 | ![](images/basic.png?raw=true) Basic Attention Token | BAT | [Whitepaper](https://www.basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf) | https://www.basicattentiontoken.org | - |
 | ![](images/bitcoin.png?raw=true) Bitcoin | BTC | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | https://www.bitcoin.com | SHA-256d  |
-| ![](images/bitconnect.png?raw=true) BitConnect | BCC | - | https://bitconnectcoin.co | Scrypt |
 | ![](images/bitshares.png?raw=true) BitShares | BTS | [Whitepaper](http://docs.bitshares.eu/_downloads/bitshares-financial-platform.pdf) | https://bitshares.org | SHA-512 |
 | ![](images/blackcoin.png?raw=true) BlackCoin | BLK | [Whitepaper](http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf) | http://blackcoin.co | Scrypt |
 | ![](images/byteball.png?raw=true) Byteball | GBYTE | [Whitepaper](https://byteball.org/Byteball.pdf) | https://byteball.org | - |
