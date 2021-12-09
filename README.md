@@ -81,6 +81,7 @@ Feel free to contribute :)
 | ![](images/round.png?raw=true) Round | ROUND | [Whitepaper](http://roundcoin.org/storage/white_paper.pdf) | http://roundcoin.org | - |
 | **S** |
 | ![](images/siacoin.png?raw=true) Siacoin | SC | [Whitepaper](https://www.sia.tech/whitepaper.pdf) | https://www.sia.tech | Blake2b |
+| ![](images/snax-icon.png?raw=true) Snax | SNAX | [Whitepaper](https://snax.one/whitepaper.pdf) | https://snax.one | DPoS |
 | ![](images/soarcoin.png?raw=true) Soarcoin | SOAR | [Whitepaper](https://github.com/neowenyuan27/SoarCoin/blob/master/whitepaper) | http://soarlabs.org | -  |
 | ![](images/steem.png?raw=true) Steem | STEEM | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | https://steem.io | - |
 | ![](images/stellar.png?raw=true) Stellar Lumens | XLM | [Whitepaper](https://medium.com/a-stellar-journey/on-worldwide-consensus-359e9eb3e949) | https://www.stellar.org | -  |
