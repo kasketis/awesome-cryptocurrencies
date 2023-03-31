@@ -70,9 +70,10 @@ Feel free to contribute :)
 | ![](images/nushares.png?raw=true) NuShares | NSR | [Whitepaper](https://www.nubits.com/assets/nu-whitepaper-23_sept_2014-en.pdf) | https://www.nubits.com | - |
 | ![](images/nxt.png?raw=true) Nxt | NXT | [Whitepaper](https://nxtwiki.org/wiki/Whitepaper:Nxt) | https://nxt.org | SHA-256d |
 | **O** |
-| **P** |
+| **P** | 
 | ![](images/peercoin.png?raw=true) Peercoin | PPC | [Whitepaper](https://peercoin.net/whitepaper) | https://peercoin.net | SHA-256d |
 | ![](images/pivx.png?raw=true) PIVX | PIVX | [Whitepaper](https://pivx.org/wp-content/uploads/2017/03/PIVX-purple-paper-Technincal-Notes.pdf) | https://pivx.org | Quark |
+| ![](https://imgur.com/a/9boshyw) Polybase | Polybase | [Whitepaper](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf) | https://polybase.xyz | - |
 | ![](images/primecoin.png?raw=true) PrimeCoin | XPM | [Whitepaper](http://primecoin.io/bin/primecoin-paper.pdf) | http://primecoin.io | Multiple |
 | **Q** |
 | **R** |
