@@ -105,3 +105,5 @@ Feel free to contribute :)
 
 
 [comment]: <> ("Never invest in a business you can’t understand." Warren Buffett)
+
+- [EventTrader](https://cymetica.com) — AI-native prediction market platform. Pre-launch TGE token price predictions, CLOB exchange (ET10, VAIX, SBIO tokens), on-chain settlement on Base L2. [TGE Markets](https://cymetica.com/tge-launch)
