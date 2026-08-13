@@ -105,3 +105,6 @@ Feel free to contribute :)
 
 
 [comment]: <> ("Never invest in a business you can’t understand." Warren Buffett)
+
+
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on new transactions via Telegram, no API key needed.
