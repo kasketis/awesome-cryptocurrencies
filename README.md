@@ -102,6 +102,7 @@ Feel free to contribute :)
 | **Y** |
 | **Z** |
 | ![](images/zcash.png?raw=true) Zcash | ZEC | [Whitepaper](http://zerocash-project.org/paper) | http://zerocash-project.org | Equihash |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 [comment]: <> ("Never invest in a business you can’t understand." Warren Buffett)
