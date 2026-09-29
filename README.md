@@ -96,6 +96,7 @@ Feel free to contribute :)
 | ![](images/vericoin.png?raw=true) VeriCoin | VRC | [Whitepaper](https://www.vericoin.info/downloads/VeriCoinPoSTWhitePaper10May2015.pdf) | https://www.vericoin.info | Scrypt |
 | ![](images/veritaseum.png?raw=true) Veritaseum | VERI | - | http://veritas.veritaseum.com | - |
 | ![](images/vertcoin.png?raw=true) VertCoin | VTC | [Whitepaper](https://vertcoin.org/Vertcoin-DavidMuller.pdf) | https://vertcoin.org | Scrypt-n |
+| ![](images/vivuscoin.png?raw=true) Vivuscoin | VVC | [Whitepaper](https://vivuscoin.com/whitepaper.pdf) | https://vivuscoin.com | SHA-256d |
 | **W** |
 | ![](images/waves.png?raw=true) Waves | WAVES | [Whitepaper](https://blog.wavesplatform.com/waves-whitepaper-164dd6ca6a23) | https://www.wavesplatform.com | Leased POS  |
 | **X** |
