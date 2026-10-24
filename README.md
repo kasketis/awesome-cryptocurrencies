@@ -30,6 +30,7 @@ Feel free to contribute :)
 | ![](images/decred.png?raw=true) Decred | DCR | - | https://www.decred.org | Blake 256 |
 | ![](images/digixdao.png?raw=true) DigixDAO | DGD | [Whitepaper](https://dgx.io/whitepaper.pdf) | https://dgx.io | - |
 | ![](images/dogecoin.png?raw=true) Dogecoin | DOGE | - | https://dogecoin.com | Scrypt |
+| Doomsday Network | DOOM / wDOOM | [GitHub](https://github.com/doomsday-network/doomsday) | https://doomsday.network | DoomHash (PoW) / Base ERC-20 |
 | ![](images/dubaicoin.png?raw=true) DubaiCoin | DBIX | - | https://www.arabianchain.org | - |
 | **E** |
 | ![](images/edgeless.png?raw=true) Edgeless | EDG | [Whitepaper](https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf) | https://edgeless.io | - |
